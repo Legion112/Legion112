@@ -1,2 +1,6 @@
-# readme
-About me :)
+## Skills
+* PHP
+* Postgress
+* Doctrine
+* Psalm
+* Distributed Systems
