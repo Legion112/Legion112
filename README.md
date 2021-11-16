@@ -12,3 +12,4 @@ I have specialization in PHP and all the infrastructure around it.
 * RabbitMQ
 * Contarnization (Docker)
 * K8s
+* CI (GitHubAction, GitLab CI, Drone)
