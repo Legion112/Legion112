@@ -25,3 +25,7 @@ I am a passionate backend developer. I have specialization in PHP and all the in
 
 ### The books I am planning to read
 * [Domain-Driven Design](https://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215)
+
+
+### The course I am planning to take
+* [Operating Systems: Virtualization, Concurrency & Persistence](https://www.educative.io/courses/operating-systems-virtualization-concurrency-persistence)
