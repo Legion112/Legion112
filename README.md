@@ -18,3 +18,4 @@ I am a passionate backend developer. I have specialization in PHP and all the in
 
 ## The book I have read
 * [Designing Data-Intensive Applications](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321)
+* [The Clean Coder](https://www.amazon.com/Clean-Coder-Conduct-Professional-Programmers/dp/0137081073)
