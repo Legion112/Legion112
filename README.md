@@ -1,6 +1,5 @@
-Hi, my name is *Max*. I am a passionate backend developer. 
-
-I have specialization in PHP and all the infrastructure around it. 
+# Hi, my name is *Max*. 
+I am a passionate backend developer. I have specialization in PHP and all the infrastructure around it. 
 ## Skills
 * :elephant:PHP 
 * Symfony
@@ -13,3 +12,9 @@ I have specialization in PHP and all the infrastructure around it.
 * Contarnization (Docker)
 * K8s
 * CI (GitHubAction, GitLab CI, Drone)
+
+## I am curretly learning 
+* [Scalability & System Design for Developers](https://www.educative.io/path/scalability-system-design)
+
+## The book I have read
+* [Designing Data-Intensive Applications](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321)
