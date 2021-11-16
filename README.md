@@ -23,6 +23,6 @@ I am a passionate backend developer. I have specialization in PHP and all the in
 * [Grokking Algorithms](https://www.amazon.com/Grokking-Algorithms-illustrated-programmers-curious/dp/1617292230)
 
 
-### The staff I am planning to learn 
+### The stuff I am planning to learn 
 * [Domain-Driven Design](https://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215)
 * [Operating Systems: Virtualization, Concurrency & Persistence](https://www.educative.io/courses/operating-systems-virtualization-concurrency-persistence)
