@@ -21,6 +21,6 @@ I am a passionate **backend** developer💻. I have specialization in **PHP** an
 #### I am curretly learning 👨‍🎓
 * [Scalability & System Design for Developers](https://www.educative.io/path/scalability-system-design)
 
-##### The stuff I am planning to learn
+##### The stuff I am planning to learn 📃
 * [Domain-Driven Design](https://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215)
 * [Operating Systems: Virtualization, Concurrency & Persistence](https://www.educative.io/courses/operating-systems-virtualization-concurrency-persistence)
