@@ -9,7 +9,7 @@ I am a passionate **backend** developer💻. I have specialization in **PHP** an
 * Psalm
 * Distributed Systems
 * RabbitMQ
-* Contarnization (Docker)
+* containerization (Docker)
 * K8s
 * CI (GitHubAction, GitLab CI, Drone)
 #### The books I have read 📖
