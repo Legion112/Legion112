@@ -9,7 +9,7 @@ I am a passionate **backend** developer💻. I have specialization in **PHP** an
 * Psalm
 * Distributed Systems
 * RabbitMQ
-* containerization (Docker)
+* containerization (Docker) You could take a look at [my images](https://hub.docker.com/u/fearofcode).
 * K8s
 * CI (GitHubAction, GitLab CI, Drone)
 #### The books I have read 📖
