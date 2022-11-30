@@ -12,6 +12,11 @@ I am a passionate **backend** developer💻. I have specialization in **PHP** an
 * containerization (Docker) You could take a look at [my images](https://hub.docker.com/u/fearofcode).
 * K8s
 * CI (GitHubAction, GitLab CI, Drone)
+
+## Valuble contributions to OpenSource
+* [Symfony Serializer Normalizer](https://github.com/Legion112/discriminator-default-normalizer)
+
+
 #### The books I have read 📖
 * [Designing Data-Intensive Applications](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321)
 * [The Clean Coder](https://www.amazon.com/Clean-Coder-Conduct-Professional-Programmers/dp/0137081073)
