@@ -3,7 +3,6 @@ I am a passionate **backend** developer💻. I have specialization in **PHP** an
 #### Skills 🌠
 * :elephant:PHP 
 * Symfony
-* Laravel
 * Postgress
 * Doctrine
 * Psalm
