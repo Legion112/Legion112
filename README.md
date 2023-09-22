@@ -23,7 +23,8 @@ I am a passionate **backend** developer💻. I have specialization in **PHP** an
 * [Patterns of Enterprise Application Architecture](https://www.amazon.com/Patterns-Enterprise-Application-Architecture-Martin/dp/0321127420)
 * [Grokking Algorithms](https://www.amazon.com/Grokking-Algorithms-illustrated-programmers-curious/dp/1617292230)
 
-#### I am curretly learning 👨‍🎓
+#### I am currently learning 👨‍🎓
+* Algorithm/Data structure [LeetCode Account ](https://leetcode.com/legion112/)
 * [Scalability & System Design for Developers](https://www.educative.io/path/scalability-system-design)
 
 ##### The stuff I am planning to learn 📃
