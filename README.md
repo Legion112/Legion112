@@ -30,3 +30,4 @@ I am a passionate **backend** developer💻. I have specialization in **PHP** an
 * [The Clean Coder](https://www.amazon.com/Clean-Coder-Conduct-Professional-Programmers/dp/0137081073)
 * [Patterns of Enterprise Application Architecture](https://www.amazon.com/Patterns-Enterprise-Application-Architecture-Martin/dp/0321127420)
 * [Grokking Algorithms](https://www.amazon.com/Grokking-Algorithms-illustrated-programmers-curious/dp/1617292230)
+* [Scalability & System Design for Developers](https://www.educative.io/path/scalability-system-design) 
