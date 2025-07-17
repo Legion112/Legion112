@@ -2,9 +2,7 @@
 I am a passionate **backend** developer💻.
 
 ## I am currently learning 👨‍🎓
-* [The way to go](https://www.educative.io/courses/the-way-to-go)
 * [Operating Systems: Virtualization, Concurrency & Persistence](https://www.educative.io/courses/operating-systems-virtualization-concurrency-persistence)
-* [Scalability & System Design for Developers](https://www.educative.io/path/scalability-system-design)
 
 
 #### Skills 🌠
@@ -24,4 +22,5 @@ I am a passionate **backend** developer💻.
 * [The Clean Coder](https://www.amazon.com/Clean-Coder-Conduct-Professional-Programmers/dp/0137081073)
 * [Patterns of Enterprise Application Architecture](https://www.amazon.com/Patterns-Enterprise-Application-Architecture-Martin/dp/0321127420)
 * [Grokking Algorithms](https://www.amazon.com/Grokking-Algorithms-illustrated-programmers-curious/dp/1617292230)
-* [Scalability & System Design for Developers](https://www.educative.io/path/scalability-system-design) 
+* [Scalability & System Design for Developers](https://www.educative.io/path/scalability-system-design)
+* [The way to go](https://www.educative.io/courses/the-way-to-go)
