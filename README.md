@@ -69,6 +69,7 @@ Completed Educative’s **[Scalability & System Design for Developers](https://w
 ### Books that shaped how I think
 
 - [Designing Data-Intensive Applications](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321)
+- [Structured Computer Organization](https://www.amazon.com/Structured-Computer-Organization-Andrew-Tanenbaum/dp/0132916525) — Tanenbaum & Austin
 - [Patterns of Enterprise Application Architecture](https://www.amazon.com/Patterns-of-Enterprise-Application-Architecture-Martin/dp/0321127420)
 - [The Clean Coder](https://www.amazon.com/Clean-Coder-Conduct-Professional-Programmers/dp/0137081073)
 - [Grokking Algorithms](https://www.amazon.com/Grokking-Algorithms-illustrated-programmers-curious/dp/1617292230)
