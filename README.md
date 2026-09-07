@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/header.svg" alt="Max · Legion112 — Tech Lead · Go · systems · homelab" width="100%" />
+  <img src="assets/header.png" alt="Max · Legion112 — Tech Lead · Go · systems · homelab" width="100%" />
 </div>
 
 <br />
@@ -71,10 +71,10 @@ If you want the unfiltered version of that — experiments, ports, infra notes, 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Legion112&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ADD8&icon_color=2AABEE&text_color=c9d1d9&ring_color=2AABEE&hide=contribs" alt="Legion112 GitHub stats" height="165" />
+<img src="https://ghrs.vercel.app/api?username=Legion112&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ADD8&icon_color=2AABEE&text_color=c9d1d9&ring_color=2AABEE" alt="Legion112 GitHub stats" height="165" />
 
 <br />
 
-<sub>Language pie skipped on purpose — old PHP repos would dominate it. Stack badges above are the honest picture.</sub>
+<sub>No language chart — old PHP repos would dominate it. Stack badges above are the honest picture.</sub>
 
 </div>
