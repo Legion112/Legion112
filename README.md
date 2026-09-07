@@ -31,6 +31,12 @@ If you want the unfiltered version of that — experiments, ports, infra notes, 
 
 ---
 
+### Achievement
+
+Completed Educative’s **[Scalability & System Design for Developers](https://www.educative.io/path/scalability-system-design)** skill path — architecture trade-offs, microservices, system design interviews, and AWS building blocks. One of the most demanding courses I’ve finished, and it changed how I reason about scale.
+
+---
+
 ### What I work with
 
 <div align="center">
@@ -72,9 +78,5 @@ If you want the unfiltered version of that — experiments, ports, infra notes, 
 <div align="center">
 
 <img src="https://ghrs.vercel.app/api?username=Legion112&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ADD8&icon_color=2AABEE&text_color=c9d1d9&ring_color=2AABEE" alt="Legion112 GitHub stats" height="165" />
-
-<br />
-
-<sub>No language chart — old PHP repos would dominate it. Stack badges above are the honest picture.</sub>
 
 </div>
